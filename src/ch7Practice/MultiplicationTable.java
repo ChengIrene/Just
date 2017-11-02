@@ -8,11 +8,12 @@ public class MultiplicationTable {
 		    	 
 		 for( int j=1; j <= 9; j++ ){
 		    		 
-		  System.out.print( j + "*" + i + " =" + (i*j) + "\t\t");
+		   System.out.print( j + "*" + i + " = " + (i*j) + " \t");
     		
+		   
 		 }	
 		 
-		 System.out.println(" ");
+		 System.out.println(i);
 	}
 }
 }
