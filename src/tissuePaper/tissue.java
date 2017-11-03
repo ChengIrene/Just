@@ -2,6 +2,8 @@ package tissuePaper;
 
 import java.io.*;
 
+import ch7Practice.GcdAndLcm;
+
 public class tissue {
 
 	private int sheets ;
@@ -18,7 +20,6 @@ public class tissue {
 	}
 	
 	public static void main(String[] args) throws IOException {
-
        tissue t1 = new tissue(15);
 		
 		System.out.println("Do you want to use this tissue?  1.YES 2.NO ");
