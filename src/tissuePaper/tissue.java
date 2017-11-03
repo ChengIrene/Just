@@ -2,8 +2,6 @@ package tissuePaper;
 
 import java.io.*;
 
-import ch7Practice.GcdAndLcm;
-
 public class tissue {
 
 	private int sheets ;
