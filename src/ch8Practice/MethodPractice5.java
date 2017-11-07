@@ -8,7 +8,7 @@ public class MethodPractice5 {   // Enter two number, this code can add from num
 		
        int sum = 0;
       
-      if(a <= b){
+      if(a < b){
     	 
 	    while(a <= b){
 		
@@ -17,7 +17,7 @@ public class MethodPractice5 {   // Enter two number, this code can add from num
 	  }
 	       System.out.println(sum);	
 	  
-      } else if (a >=b ){
+      } else if (a > b ){
 	  
 	       while(a >= b){
 		  
